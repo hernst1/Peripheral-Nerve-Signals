@@ -25,7 +25,9 @@ You will be provided with the following in the ”data.mat” file:
 – Pinch.trigger: contains the labels for data points (=0 for rest, 6= 0 for stimulation)
 
 **2 Tasks**
-_**2.1 Pre-processing**__
+_**2.1 Pre-processing**_
+a) 4th order Butterworth Bandpass Filter, 800-2200 Hz, non-causal
+b) Power Spectral Density
 
 _**2.2 Feature Extraction**_
 a) MAV and VAR features
