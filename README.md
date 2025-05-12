@@ -3,7 +3,7 @@
 **Analysis of Peripheral Nerve Signals**
 
 **1 Overview**
-In this HW, you will analyze peripheral nerve signals (PNSs) recorded through cuff electrodes from a rat’s sciatic nerve. When used for recording, cuff electrodes can capture sensory afferents in response to external stimuli. You will investigate the possibility of discriminating the afferents of three different
+This is an analysis of peripheral nerve signals (PNSs) recorded through cuff electrodes from a rat’s sciatic nerve. When used for recording, cuff electrodes can capture sensory afferents in response to external stimuli. You will investigate the possibility of discriminating the afferents of three different
 sensory stimuli from PNSs.
 Details about data acquisition and experimental setup can be found in [1]. The provided dataset has three PNS recordings: each of which was acquired while the rat was in an anesthetized resting state with intermittent application of one of the following stimuli:
 • VF: mechanical stimulus of the plantar skin using a Von Frey (VF) filament
